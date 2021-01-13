@@ -1,2 +1,0 @@
-# guessinggame.md
-Guessing Game
