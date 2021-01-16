@@ -28,3 +28,14 @@ function guessingGame(){
     }
 }
 guessingGame()
+
+// var numbers = [10,3,2,5,7,6,9,12,15,4,19,1];
+
+// var answer = [];
+
+// for (var i =0; i < numbers.length; i++) {
+//     if (number[i] < 6 || nubmers[i] > 12) {
+//         answer.push(numbers[i])
+//     }
+// }
+// console.log(answer);
