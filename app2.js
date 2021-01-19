@@ -1,6 +1,5 @@
 'use strict'
 var arrayofCA = ['BOATING', 'KAYAKING', 'SKIING']
-// var COAS = numAnsCorect
 
 // question7()
 let numberofguesses = 6
